@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shubham Mondal</h1>
-<h3 align="center">A passionate frontend developer</h3>
+<h3 align="center">A passionate web developer from India</h3>
 
-- 🌱 I’m currently learning **React and Machine Learning**
+- 🌱 I’m currently learning **Fireabase and Deep Learning**
 
 - 📫 How to reach me **shubhamank002@gmail.com**
 
@@ -38,3 +38,4 @@
 <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
 </a>
 </p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shmiitg&show_icons=true&locale=en" alt="shmiitg" /></p>
