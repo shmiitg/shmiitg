@@ -7,6 +7,8 @@
 
 - 📫 How to reach me **shubhamank002@gmail.com**
 
+- 👨‍💻 <a href="https://shm-portfolio.netlify.app/" target="_blank" rel="norefferer">My Website</a>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/shmiitg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shubham-mondal-206aa219b" height="30" width="40" />
@@ -15,9 +17,9 @@
 
 <h3 align="left">Coding Platforms:</h3>
 <p align="left">
-<a href="https://www.codechef.com/users/shm_iitg" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="shm_iitg" height="30" width="40" />
+<a href="https://www.codechef.com/users/shm_iitg" target="_blank" rel="noreferrer"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="shm_iitg" height="30" width="40" />
 </a>
-<a href="https://www.leetcode.com/shm_iitg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="shm_iitg" height="30" width="40" />
+<a href="https://www.leetcode.com/shm_iitg" target="_blank" rel="noreferrer"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="shm_iitg" height="30" width="40" />
 </a>
 </p>
 
