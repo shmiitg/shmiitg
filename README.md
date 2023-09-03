@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shmiitg&label=Profile%20views&color=0e75b6&style=flat" alt="shmiitg" /> </p>
 
-- 🌱 I’m currently learning **Next.js** and **Golang**
-
 - 📫 How to reach me **shubhamank002@gmail.com**
 
 - 👨‍💻 <a href="https://shm-portfolio.netlify.app/" target="_blank" rel="norefferer">My Website</a>
